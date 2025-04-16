@@ -1,6 +1,5 @@
  **Staff Engineer, Backend Platform @ TV4**
 Focused on stability, standardization, and developer productivity.
-Mainly constructing solid LLM Platforms as of lately.
 
 
 **What I Do**

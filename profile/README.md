@@ -1,20 +1,17 @@
-# 👋 
-
+ 
 ## Currently
-### Staff Engineer | Backend Platform
+**Staff Engineer, Backend Platform @ TV4**
 Focused on stability, standardization, and developer productivity.
 Mainly constructing solid LLM Platforms as of lately.
 
 
 ## 🛠 What I Do
-
 - Lead platform initiatives at scale using **Go** and **TypeScript**
 - Design and evolve systems on **AWS**, prioritizing **resilience** and **performance**
-- Build tooling and infrastructure that empowers teams to move faster, safer
+- Build tooling and infrastructure that empowers teams to move faster
 
 
 ## 🚀 Recent Focus
-
 - Provisioned observability via terraform
 - ML Platform engineering
   

@@ -1,7 +1,9 @@
 # 👋 
 
-Currently - Staff Engineer | Backend Platform
-Focused on stability, standardization, and developer productivity.  
+## Currently
+### Staff Engineer | Backend Platform
+Focused on stability, standardization, and developer productivity.
+Mainly constructing solid LLM Platforms as of lately.
 
 ---
 
